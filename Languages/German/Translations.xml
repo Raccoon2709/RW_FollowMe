@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Fluffy.Blueprints.DefaultBlueprintName>Blaupause</Fluffy.Blueprints.DefaultBlueprintName>
+	<Fluffy.Blueprints.NameAlreadyTaken>"{0}" wird schon verwendet. Bitte wähle einen anderen Namen.</Fluffy.Blueprints.NameAlreadyTaken>
+	<Fluffy.Blueprints.InvalidBlueprintName>"{0}" kann nicht verwendet werden. Bitte nutze ausschließlich Buchstaben von A - Z und Unterstriche, Leerzeichen sind nicht erlaubt.</Fluffy.Blueprints.InvalidBlueprintName>
+	<Fluffy.Blueprints.LoadFromXML>Lade Blaupause "{0}"</Fluffy.Blueprints.LoadFromXML>
+	<Fluffy.Blueprints.CannotCreateBluePrint_NothingSelected>Konnte keine Blaupause erstellen; es wurde nichts ausgewählt.</Fluffy.Blueprints.CannotCreateBluePrint_NothingSelected>
+	<Fluffy.Blueprint.Cost>Kosten zum erstellen der Blaupause:</Fluffy.Blueprint.Cost>
+	<Fluffy.Blueprints.Remove>Lösche die Blaupause</Fluffy.Blueprints.Remove>
+	<Fluffy.Blueprints.SaveToXML>Speichere die Blaupause</Fluffy.Blueprints.SaveToXML>
+	<Fluffy.Blueprints.RemoveAndDeleteXML>Lösche die aktuelle Blaupause komplett.</Fluffy.Blueprints.RemoveAndDeleteXML>
+	<Fluffy.Blueprints.Rename>Ändere den Namen der Blaupause</Fluffy.Blueprints.Rename>
+	<Fluffy.Blueprints.ExportedBlueprintWithThatNameAlreadyExists>Der Name der Blaupause "{0}" existiert schon. Bitte wähle einen anderen Namen.</Fluffy.Blueprints.ExportedBlueprintWithThatNameAlreadyExists>
+	<Fluffy.Blueprints.Create>Erstelle</Fluffy.Blueprints.Create>
+	<Fluffy.Blueprints.CreateHelp>Für Informationen wie Sie die Blaupausen nutzen, schauen Sie sich den Hilfetab im Spiel an. </Fluffy.Blueprints.CreateHelp>
+
+</LanguageData>
